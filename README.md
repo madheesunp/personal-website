@@ -1,2 +1,2 @@
-# SurvivorGatech
-Website for Survivor @ Georgia Tech.
+# Madison Powell Personal Website
+Professional profile for Madison Powell
